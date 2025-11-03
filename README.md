@@ -59,3 +59,4 @@ We'll review your contribution and merge it if everything looks good. Thank you 
 
 Licensed under [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) 
 # this is a git workshop
+## learning the branching how it works
